@@ -1,6 +1,6 @@
-[submodule "FalloutSbxServer"]
-	path = FalloutSbxServer
+[submodule "server"]
+	path = server
 	url = https://github.com/Big-MT/FalloutSbxServer.git
-[submodule "FalloutSbxClient"]
-	path = FalloutSbxClient
+[submodule "client"]
+	path = client
 	url = https://github.com/Big-MT/FalloutSbxClient.git
