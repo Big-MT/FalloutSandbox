@@ -1,0 +1,8 @@
+[submodule "server"]
+	path = server
+	url = ../FalloutSbxServer.git
+	branch = main
+[submodule "client"]
+	path = client
+	url = ../FalloutSbxClient.git
+	branch = main
