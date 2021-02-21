@@ -1,6 +1,8 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Big-MT/FalloutSbxServer.git
+	branch = main
 [submodule "client"]
 	path = client
 	url = https://github.com/Big-MT/FalloutSbxClient.git
+	branch = main
