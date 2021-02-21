@@ -6,3 +6,9 @@
 	path = client
 	url = ../FalloutSbxClient.git
 	branch = main
+[submodule "FalloutSbxServer"]
+	path = FalloutSbxServer
+	url = https://github.com/Big-MT/FalloutSbxServer.git
+[submodule "FalloutSbxClient"]
+	path = FalloutSbxClient
+	url = https://github.com/Big-MT/FalloutSbxClient.git
