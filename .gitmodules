@@ -1,14 +1,6 @@
-[submodule "server"]
-	path = server
-	url = ../FalloutSbxServer.git
-	branch = main
-[submodule "client"]
-	path = client
-	url = ../FalloutSbxClient.git
-	branch = main
 [submodule "FalloutSbxServer"]
-	path = FalloutSbxServer
+	path = server
 	url = https://github.com/Big-MT/FalloutSbxServer.git
 [submodule "FalloutSbxClient"]
-	path = FalloutSbxClient
+	path = client
 	url = https://github.com/Big-MT/FalloutSbxClient.git
